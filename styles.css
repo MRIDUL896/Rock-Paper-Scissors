@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+#top_div{
+    height: 90px;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#hands_div{
+    display: flex;
+    justify-content: center;
+}
+.hand_img{
+    height: 90px;
+    width: 90px;
+    margin: 80px;
+}
+#footer_div{
+    height: 90px;
+    display: flex;
+    justify-content: center;
+}
+#ending{
+    color: red;
+    font-size: 30px;
+}
